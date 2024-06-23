@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" display="inline" height="297.000000px" preserveAspectRatio="xMinYMin meet" viewBox="-9.00 34.00 749.00 297.00" width="749.000000px" x="0" y="0" zoomAndPan="disable">
+  <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel">
+    <!--RAWSTRING-->
+    <g id="HLF_SystemArchitecture:301">
+      <g clip-path="none" fill="#ffffff" fill-opacity="1" opacity="1" stroke="#a8a8a8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+        <path d="M0,37 C0,35.8954 0.895431,35 2,35 L728,35 C729.105,35 730,35.8954 730,37 L730,328 C730,329.105 729.105,330 728,330 L2,330 C0.895431,330 0,329.105 0,328 L0,37 z" fill-rule="evenodd" vector-effect="none"/>
+      </g>
+      <!--RAWSTRING-->
+      <g data-tags="SystemBoxCueContainer">
+        <g clip-path="none" fill="#e89987" fill-opacity="1" opacity="1" stroke="#a8a8a8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+          <path d="M0,37 C0,35.8954 0.895431,35 2,35 L728,35 C729.105,35 730,35.8954 730,37 L730,60 L0,60 L0,37 z" fill-rule="nonzero" vector-effect="none"/>
+        </g>
+        <!--RAWSTRING-->
+        <g data-tags="SystemPortCue">
+          <g clip-path="none" fill="#ffffff" fill-opacity="1" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,0,195)">
+            <path d="M8,0 C8,4.41828 4.41828,8 0,8 C-4.41828,8 -8,4.41828 -8,0 C-8,-4.41828 -4.41828,-8 0,-8 C4.41828,-8 8,-4.41828 8,0 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <g clip-path="none" fill="none" opacity="1" stroke="#a8a8a8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,195)">
+            <path d="M0,8 C4.41828,8 8,4.41828 8,0 C8,-4.41828 4.41828,-8 0,-8" fill-rule="nonzero" vector-effect="none"/>
+          </g>
+          <g clip-path="none" fill="#ffffff" fill-opacity="1" opacity="0.2" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,-8,187)">
+            <image height="18" preserveAspectRatio="none" width="18" x="-1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAuElEQVQ4je2RIQ7CQBREZzaEpodAoYCEG6CpQ1V1N0WBR3ECPCdA/B6gjmA5AgngkRxiPwaB6DaloqrP/GQyeZnkAz2dwaowy7IpgIMxZiMi7yYiUxkaY0iuVPVhrd2laTpsJQIAVb2TXABIoii6WWuTViIAEJFnURRLAHsAJ+fcK8/z8d+in3X8Xg11BnUC59xEVY8kRwDWInIJdYOLSM5U9UryHMfxvE4SXOS99yRLktum7+/pkA+eazoQmpO4pwAAAABJRU5ErkJggg==" y="-1"/>
+          </g>
+          <!--RAWSTRING-->
+          <g data-tags="SystemBoundaryPortBusElementNameLabel">
+            <defs>
+              <clipPath id="clip1">
+                <path d="M-18,-153.5 L730,-153.5 L730,142.5 L-18,142.5 L-18,-153.5 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip1)" fill="none" opacity="1" stroke="#555555" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,10,188)">
+              <text fill="#555555" fill-opacity="1" font-family="Arial" font-size="10" font-style="normal" font-weight="400" stroke="none" textLength="53.8281" x="1" xml:space="preserve" y="10">CAN_Lanes</text>
+            </g>
+            <!--RAWSTRING-->
+          </g>
+          <g clip-path="none" fill="#808080" fill-opacity="1" opacity="0" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1" stroke-width="2" transform="matrix(1,0,0,1,0,195)">
+            <path d="M9,5 L5,9 L1,9 L1,1 L5,1 L9,5 z" fill-rule="nonzero" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+        <g data-tags="SystemPortCue">
+          <g clip-path="none" fill="#ffffff" fill-opacity="1" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,730,195)">
+            <path d="M8,0 C8,4.41828 4.41828,8 0,8 C-4.41828,8 -8,4.41828 -8,0 C-8,-4.41828 -4.41828,-8 0,-8 C4.41828,-8 8,-4.41828 8,0 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <g clip-path="none" fill="none" opacity="1" stroke="#a8a8a8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,730,195)">
+            <path d="M0,-8 C-4.41828,-8 -8,-4.41828 -8,0 C-8,4.41828 -4.41828,8 0,8" fill-rule="nonzero" vector-effect="none"/>
+          </g>
+          <g clip-path="none" fill="#ffffff" fill-opacity="1" opacity="0.2" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,722,187)">
+            <image height="18" preserveAspectRatio="none" width="18" x="-1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAuElEQVQ4je2RIQ7CQBREZzaEpodAoYCEG6CpQ1V1N0WBR3ECPCdA/B6gjmA5AgngkRxiPwaB6DaloqrP/GQyeZnkAz2dwaowy7IpgIMxZiMi7yYiUxkaY0iuVPVhrd2laTpsJQIAVb2TXABIoii6WWuTViIAEJFnURRLAHsAJ+fcK8/z8d+in3X8Xg11BnUC59xEVY8kRwDWInIJdYOLSM5U9UryHMfxvE4SXOS99yRLktum7+/pkA+eazoQmpO4pwAAAABJRU5ErkJggg==" y="-1"/>
+          </g>
+          <!--RAWSTRING-->
+          <g data-tags="SystemBoundaryPortBusElementNameLabel">
+            <defs>
+              <clipPath id="clip2">
+                <path d="M-698.812,-153.5 L49.1875,-153.5 L49.1875,142.5 L-698.812,142.5 L-698.812,-153.5 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip2)" fill="none" opacity="1" stroke="#555555" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,690.812,188)">
+              <text fill="#555555" fill-opacity="1" font-family="Arial" font-size="10" font-style="normal" font-weight="400" stroke="none" textLength="27.1875" x="1" xml:space="preserve" y="10">Lanes</text>
+            </g>
+            <!--RAWSTRING-->
+          </g>
+          <g clip-path="none" fill="#808080" fill-opacity="1" opacity="0" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1" stroke-width="2" transform="matrix(1,0,0,1,730,195)">
+            <path d="M9,5 L5,9 L1,9 L1,1 L5,1 L9,5 z" fill-rule="nonzero" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+      </g>
+      <!--RAWSTRING-->
+      <g data-tags="SystemBoxTitle">
+        <defs>
+          <clipPath id="clip3">
+            <path d="M-10,-4 L738,-4 L738,292 L-10,292 L-10,-4 z"/>
+          </clipPath>
+        </defs>
+        <g clip-path="url(#clip3)" fill="none" opacity="1" stroke="#35231f" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,2,38.5)">
+          <text fill="#35231f" fill-opacity="1" font-family="Arial" font-size="14" font-style="normal" font-weight="700" stroke="none" textLength="139.984" x="1" xml:space="preserve" y="14">CANTrasceiverLanes</text>
+        </g>
+        <!--RAWSTRING-->
+      </g>
+      <!--RAWSTRING-->
+    </g>
+  </g>
+  <!--generated on windows @ 2021-09-24 06:01:43 Eastern Daylight Time-->
+</svg>

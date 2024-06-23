@@ -1,0 +1,13 @@
+.HLF_SystemArchitecture0,
+.HLF_SystemArchitecture1,
+.HLF_SystemArchitecture2,
+.HLF_SystemArchitecture3,
+.HLF_SystemArchitecture4,
+.HLF_SystemArchitecture5 { background-image: url('HLF_SystemArchitecture_icons.png'); width: 16px; height: 16px; }
+
+.HLF_SystemArchitecture0 { background-position: -0px; }
+.HLF_SystemArchitecture1 { background-position: -16px; }
+.HLF_SystemArchitecture2 { background-position: -32px; }
+.HLF_SystemArchitecture3 { background-position: -48px; }
+.HLF_SystemArchitecture4 { background-position: -64px; }
+.HLF_SystemArchitecture5 { background-position: -80px; }

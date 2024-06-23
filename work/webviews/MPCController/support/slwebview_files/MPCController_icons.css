@@ -1,0 +1,11 @@
+.MPCController0,
+.MPCController1,
+.MPCController2,
+.MPCController3,
+.MPCController4 { background-image: url('MPCController_icons.png'); width: 16px; height: 16px; }
+
+.MPCController0 { background-position: -0px; }
+.MPCController1 { background-position: -16px; }
+.MPCController2 { background-position: -32px; }
+.MPCController3 { background-position: -48px; }
+.MPCController4 { background-position: -64px; }

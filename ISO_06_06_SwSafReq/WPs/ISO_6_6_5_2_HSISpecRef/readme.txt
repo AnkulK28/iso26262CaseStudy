@@ -1,0 +1,1 @@
+Folder intentionally emtpy for demo. Placeholder for ISO 6 6.5.2 HSI Specification refined.

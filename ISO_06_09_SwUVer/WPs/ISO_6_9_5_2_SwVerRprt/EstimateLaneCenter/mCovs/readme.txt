@@ -1,0 +1,1 @@
+Folder intentionally emtpy for demo. Placeholder for model_coverages.

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info File="tools/utilities/project_management/startup/prjSetup.m" Icon="" Name="prjSetup" Type="StartUp" Visible="0">
+    <Extension Name="StartUpPrev" Value="987d7ddc-2e7a-4823-b442-36bbc9480a1b"/>
+</Info>
